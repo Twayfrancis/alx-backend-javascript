@@ -1,4 +1,4 @@
-###Setup 
+### Setup 
 ## Install NodeJS 12.11.x
 ```bash
 curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
